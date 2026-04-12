@@ -1,42 +1,93 @@
-<h1 align="center">Hi 👋, I'm Krish Kushvaha.</h1>
-<h3 align="center">Aspiring Data Scientist | Python • SQL • Pandas</h3>
+<div align="center">
 
-<br/>
+<h1>✦ "Numbers Tell Stories" ✦</h1>
+<h3><i>— Krish Kushvaha</i></h3>
 
-<table align="center">
-  <tr>
-    <td>🔭 Currently building</td>
-    <td>Data analysis projects from real datasets</td>
-  </tr>
-  <tr>
-    <td>🌱 Learning</td>
-    <td>Pandas, NumPy, Matplotlib, SQL</td>
-  </tr>
-  <tr>
-    <td>🎯 Goal</td>
-    <td>Land a Data Analyst role by 2026</td>
-  </tr>
-  <tr>
-    <td>📫 Contact</td>
-    <td>your@email.com</td>
-  </tr>
-</table>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=1000&color=F9A8D4&center=true&vCenter=true&width=600&lines=Every+dataset+has+a+story+hidden+inside...;Learning+to+read+it,+one+line+at+a+time...;Turning+numbers+into+narratives...)
 
-<br/>
+</div>
 
-<h3 align="center">🛠️ Tools & Technologies</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+---
 
-<br/>
+<div align="center">
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeet18000&show_icons=true&theme=default&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeet18000&layout=compact&theme=default&hide_border=true" width="40%"/>
-</p>
+### 🌸 Who Am I?
+
+</div>
+
+```python
+krish = {
+    "name"      : "Krish Kushvaha",
+    "location"  : "Gujarat, India",
+    "role"      : "Aspiring Data Analyst",
+    "learning"  : ["Python", "Pandas", "SQL", "NumPy", "Matplotlib"],
+    "goal"      : "Make data useful, not just readable",
+    "currently" : "Turning messy datasets into clean stories",
+    "eta"       : "Data Analyst Learner🎯"
+}
+```
+
+---
+
+<div align="center">
+
+### 📖 My Data Story So Far
+
+</div>
+
+> *Every dataset has a story. I'm learning how to read and present it.*
+
+- 📊 Exploring patterns hidden inside raw numbers
+- 🧹 Learning to clean, analyze and visualize data
+- 🐍 Building Python & SQL fundamentals from scratch
+- 📈 Creating real projects — not just watching tutorials
+- ✍️ Documenting my journey, one commit at a time
+
+---
+
+<div align="center">
+
+### 🛠️ Tools I'm Learning
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Krish-Kushvaha&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Kushvaha&layout=compact&theme=rose_pine&hide_border=true" width="40%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-Kushvaha&theme=rose_pine&hide_border=true" width="55%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌸 My Learning Roadmap
+
+</div>
+
+---
+
+<div align="center">
+
+*"Every number has a name, every name has a story, every story has a meaning"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Krish-Kushvaha&color=f9a8d4&style=for-the-badge)
+
+📍 Gujarat, India &nbsp;|&nbsp; 📫 krishkushvaha7@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/krish-kushvaha-5747g)
+
+</div>
