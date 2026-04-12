@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>✦ "Numbers Tell Stories" ✦</h1>
+<h1> "Numbers Tell Stories" </h1>
 <h3><i>— Krish Kushvaha</i></h3>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=1000&color=F9A8D4&center=true&vCenter=true&width=600&lines=Every+dataset+has+a+story+hidden+inside...;Learning+to+read+it,+one+line+at+a+time...;Turning+numbers+into+narratives...)
@@ -11,7 +11,7 @@
 
 <div align="center">
 
-### 🌸 Who Am I?
+### 😉 Who Am I?
 
 </div>
 
@@ -63,20 +63,7 @@ krish = {
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Krish-Kushvaha&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" width="47%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Kushvaha&layout=compact&theme=rose_pine&hide_border=true" width="40%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-Kushvaha&theme=rose_pine&hide_border=true" width="55%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🌸 My Learning Roadmap
+### ✨ My Learning Roadmap
 
 </div>
 
