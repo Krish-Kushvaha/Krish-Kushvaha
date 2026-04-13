@@ -1,80 +1,66 @@
 <div align="center">
 
-<h1> "Numbers Tell Stories" </h1>
-<h3><i>— Krish Kushvaha</i></h3>
+# 📊 <span style="color: #6366F1;">Decoding Data, Creating Value</span>
+### — Krish Kushvaha
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=1000&color=F9A8D4&center=true&vCenter=true&width=600&lines=Every+dataset+has+a+story+hidden+inside...;Learning+to+read+it,+one+line+at+a+time...;Turning+numbers+into+narratives...)
-
-</div>
-
----
-
-<div align="center">
-
-### 😉 Who Am I?
-
-</div>
-
-```python
-krish = {
-    "name"      : "Krish Kushvaha",
-    "location"  : "Gujarat, India",
-    "role"      : "Aspiring Data Analyst",
-    "learning"  : ["Python", "Pandas", "SQL", "NumPy", "Matplotlib"],
-    "goal"      : "Make data useful, not just readable",
-    "currently" : "Turning messy datasets into clean stories",
-    "eta"       : "Data Analyst Learner🎯"
-}
-```
-
----
-
-<div align="center">
-
-### 📖 My Data Story So Far
-
-</div>
-
-> *Every dataset has a story. I'm learning how to read and present it.*
-
-- 📊 Exploring patterns hidden inside raw numbers
-- 🧹 Learning to clean, analyze and visualize data
-- 🐍 Building Python & SQL fundamentals from scratch
-- 📈 Creating real projects — not just watching tutorials
-- ✍️ Documenting my journey, one commit at a time
-
----
-
-<div align="center">
-
-### 🛠️ Tools I'm Learning
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Data+Analyst+in+the+making...;Translating+Complex+Numbers+to+Stories...;SQL+%7C+Python+%7C+Java+%7C+Visualization)
 
 </div>
 
 ---
 
-<div align="center">
+### 🕵️‍♂️ Profile Summary
+> **"Information is the oil of the 21st century, and analytics is the combustion engine."**
 
-### ✨ My Learning Roadmap
-
-</div>
+I’m a data enthusiast based in **Gujarat, India**, passionate about transforming messy, raw datasets into clean, visual narratives. With a strong foundation in **Logic (C/C++/Java)** and a specialized focus on **Data Analytics (Python/SQL)**, I bridge the gap between technical complexity and business clarity.
 
 ---
 
+### 🛠️ The Tech Stack
+
+#### 🧪 Data Science & Analytics
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### ⚙️ Programming Foundations
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Adv Java](https://img.shields.io/badge/Advanced_Java-blue?style=for-the-badge&logo=java)
+
+---
+
+### 🚀 Data Journey Tracker
+
+| Module | Skillset | Mastery |
+| :--- | :--- | :--- |
+| **Data Cleaning** | Handling Outliers, Missing Values (Pandas) | `▓▓▓▓▓▓▓░░░` |
+| **Querying** | Complex Joins, Subqueries (SQL) | `▓▓▓▓▓▓░░░░` |
+| **Logic** | Algorithms & Data Structures (C++/Java) | `▓▓▓▓▓▓▓▓░░` |
+| **Visualization** | Matplotlib, Seaborn | `▓▓▓▓▓░░░░░` |
+
+---
+
+### 📈 GitHub Analytics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Kushvaha&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-Kushvaha&theme=vision-friendly-dark&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Let's Connect & Collaborate!
+
 <div align="center">
 
-*"Every number has a name, every name has a story, every story has a meaning"*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-kushvaha-5747g) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishkushvaha7@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](#)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Krish-Kushvaha&color=f9a8d4&style=for-the-badge)
+<br />
 
-📍 Gujarat, India &nbsp;|&nbsp; 📫 krishkushvaha7@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/krish-kushvaha-5747g)
+![Visitor Count](https://komarev.com/ghpvc/?username=Krish-Kushvaha&label=PROFILE+VIEWS&color=6366F1&style=flat-square)
 
 </div>
