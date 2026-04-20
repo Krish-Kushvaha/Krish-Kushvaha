@@ -10,9 +10,10 @@
 ---
 
 ### 🕵️‍♂️ Profile Summary
+
 > **"Information is the oil of the 21st century, and analytics is the combustion engine."**
 
-I’m a data enthusiast based in **Gujarat, India**, passionate about transforming messy, raw datasets into clean, visual narratives. With a strong foundation in **Logic (C/C++/Java)** and a specialized focus on **Data Analytics (Python/SQL)**, I bridge the gap between technical complexity and business clarity.
+I'm a data enthusiast based in **Gujarat, India**, passionate about transforming messy, raw datasets into clean, visual narratives. With a strong foundation in **Logic (C/C++/Java)** and a specialized focus on **Data Analytics (Python/SQL)**, I bridge the gap between technical complexity and business clarity.
 
 ---
 
@@ -22,7 +23,22 @@ I’m a data enthusiast based in **Gujarat, India**, passionate about transformi
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+#### 🗄️ Databases & Querying
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 📊 Business Intelligence
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+#### 🌐 Web Basics
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 #### ⚙️ Programming Foundations
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -39,11 +55,14 @@ I’m a data enthusiast based in **Gujarat, India**, passionate about transformi
 | **Data Cleaning** | Handling Outliers, Missing Values (Pandas) | `▓▓▓▓▓▓▓░░░` |
 | **Querying** | Complex Joins, Subqueries (SQL) | `▓▓▓▓▓▓░░░░` |
 | **Logic** | Algorithms & Data Structures (C++/Java) | `▓▓▓▓▓▓▓▓░░` |
-| **Visualization** | Matplotlib, Seaborn | `▓▓▓▓▓░░░░░` |
+| **Visualization** | Matplotlib, Seaborn, Power BI | `▓▓▓▓▓░░░░░` |
+| **Machine Learning** | Scikit-learn, SciPy | `▓▓▓▓░░░░░░` |
+| **Statistical Analysis** | SciPy, Statsmodels | `▓▓▓▓▓░░░░░` |
 
 ---
 
 ### 📈 GitHub Analytics
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Kushvaha&layout=compact&theme=vision-friendly-dark&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-Kushvaha&theme=vision-friendly-dark&hide_border=true" />
@@ -55,7 +74,7 @@ I’m a data enthusiast based in **Gujarat, India**, passionate about transformi
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-kushvaha-5747g) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-kushvaha-5747g)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishkushvaha7@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](#)
 
